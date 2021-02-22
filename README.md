@@ -13,7 +13,7 @@ Then, You can view the following pictures during redirection!
 Yah!
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/gkswjdzz/redirect/main/public/images/cute.gif">
+    <img src="https://raw.githubusercontent.com/gkswjdzz/redirect/main/public/images/cute.gif" width="300px">
     <br>
-    <img src="https://raw.githubusercontent.com/gkswjdzz/redirect/main/public/images/Mhys.gif" width="150px">
+    <img src="https://raw.githubusercontent.com/gkswjdzz/redirect/main/public/images/Mhys.gif" width="300px">
 </p>
